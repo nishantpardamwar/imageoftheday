@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image of the day</string>
+    <string name="image_name">Name </string>
+    <string name="name">Not available</string>
+    <string name="image_date">Date </string>
+    <string name="date">Not available</string>
+    <string name="image_desc">Description </string>
+    <string name="text_image_description">Not available</string>
+</resources>
